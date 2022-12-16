@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @JapmannKaur
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello there!!
 
-<!---
-JapmannKaur/JapmannKaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey, this is Japmann and I'm currently a 3rd Year B. Tech Student at Vellore Institute of Technology, Chennai. I'm a UX/UI designer and also pretty enthusiaastic about front-end development. I also enjoy working in the fields of image processing and machine learning in general.
+
+
+[![Japmann's GitHub stats](https://github-readme-stats.vercel.app/api?username=JapmannKaur)](https://github.com/anuraghazra/github-readme-stats)
+
