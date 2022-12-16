@@ -41,6 +41,11 @@ Hey, this is Japmann and I'm currently a 3rd Year B. Tech Student at Vellore Ins
 ### Devops
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> </a> </p>
 
+### Profile Card:
+Want to have a glance at my profile card? Run the following command in cmd if you have npx installed in your system:
+```
+npx japmann
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
