@@ -6,6 +6,7 @@ Hey, this is Japmann and I'm currently a 3rd Year B. Tech Student at Vellore Ins
 <img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=JapmannKaur&show_icons=true&theme=radical">
 <img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JapmannKaur&layout=compact">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=japmannkaur&" alt="japmannkaur" /></p>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JapmannKaur)](https://github.com/japmannkaur/github-readme-stats)
 
 ### Design
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
