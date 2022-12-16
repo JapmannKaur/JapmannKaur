@@ -4,7 +4,7 @@ Hey, this is Japmann and I'm currently a 3rd Year B. Tech Student at Vellore Ins
 
 
 <img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=JapmannKaur&show_icons=true&theme=radical">
-<img align="left" width="49%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JapmannKaur&layout=compact">
+<img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JapmannKaur&layout=compact">
 
 
 ### Design
