@@ -6,8 +6,10 @@ Hey, this is Japmann and I'm currently a 3rd Year B. Tech Student at Vellore Ins
 <img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=JapmannKaur&show_icons=true&theme=radical">
 <img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JapmannKaur&layout=compact">
 
+
+<br>
 ### Streaks Record
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=japmannkaur&" alt="japmannkaur" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=japmannkaur&" alt="japmannkaur" />
 
 ### Weakly Activity
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JapmannKaur)](https://github.com/JapmannKaur/github-readme-stats)
