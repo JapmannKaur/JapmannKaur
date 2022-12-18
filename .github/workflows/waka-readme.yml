@@ -1,4 +1,4 @@
-name: weakstats
+name: Waka Readme
 
 on:
   workflow_dispatch: # for manual workflow trigger
