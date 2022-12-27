@@ -14,7 +14,7 @@ Hey, this is Japmann and I'm currently a 3rd Year B. Tech Student at Vellore Ins
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 December 2022 - To: 26 December 2022
+From: 15 December 2022 - To: 27 December 2022
 
 Total Time: 5 hrs 54 mins
 
