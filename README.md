@@ -3,7 +3,8 @@
 Hey, this is Japmann and I'm currently a 3rd Year B. Tech Student at Vellore Institute of Technology, Chennai. I'm a UX/UI designer and also pretty enthusiaastic about front-end development. I also enjoy working in the fields of image processing and machine learning in general.
 
 
-<img align="left" width="47%" src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JapmannKaur&show_icons=true&theme=radical">
+<!-- <img align="left" width="47%" src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JapmannKaur&show_icons=true&theme=radical"> -->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JapmannKaur?cardType=level&Title=DD2727)](https://git.io/awesome-stats-card)
 <img align="left" width="48%" src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JapmannKaur&layout=compact">
 
 
