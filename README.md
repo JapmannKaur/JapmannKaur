@@ -14,13 +14,13 @@ Hey, this is Japmann and I'm currently a 3rd Year B. Tech Student at Vellore Ins
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 April 2023 - To: 02 May 2023
+From: 03 April 2023 - To: 03 May 2023
 
-Total Time: 23 mins
+Total Time: 18 mins
 
-JavaScript   16 mins         █████████████████▒░░░░░░░   69.76 %
-CSS          5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.08 %
-Markdown     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+JavaScript   10 mins         ███████████████░░░░░░░░░░   60.63 %
+CSS          5 mins          ████████░░░░░░░░░░░░░░░░░   32.65 %
+Markdown     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
 ```
 
 <!--END_SECTION:waka-->
