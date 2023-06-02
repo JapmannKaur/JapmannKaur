@@ -14,7 +14,7 @@ Hey, this is Japmann and I'm currently a 3rd Year B. Tech Student at Vellore Ins
 ### Weakly Activity
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 02 May 2023 - To: 01 June 2023
 
 Total Time: 22 hrs 19 mins
