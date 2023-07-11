@@ -2,6 +2,7 @@
 
 Hey, this is Japmann and I'm currently a 3rd Year B. Tech Student at Vellore Institute of Technology, Chennai. I'm a UX/UI designer and also pretty enthusiastic about front-end development. I also enjoy working in the fields of image processing and machine learning in general.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JapmannKaur&label=Profile views&color=ab2346&style=flat" alt="JapmannKaur" /> </p>
 
 <img align="left" width="47%" src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JapmannKaur&show_icons=true&theme=radical">
 <img align="left" width="48%" src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JapmannKaur&layout=compact">
