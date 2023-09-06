@@ -1,6 +1,6 @@
 ### 👋 Hello there!!!
 
-Hey, this is Japmann and I'm currently a 3rd Year B. Tech Student at Vellore Institute of Technology, Chennai. I'm a UX/UI designer and also pretty enthusiastic about front-end development. I also enjoy working in the fields of image processing and machine learning in general.
+Hey, this is Japmann and I'm currently a 4th Year B. Tech Student at Vellore Institute of Technology, Chennai. I'm a UX/UI designer and also pretty enthusiastic about front-end development. I also enjoy working in the fields of image processing and machine learning in general.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JapmannKaur&label=Profile views&color=ab2346&style=flat" alt="JapmannKaur" /> </p>
 
@@ -16,7 +16,7 @@ Hey, this is Japmann and I'm currently a 3rd Year B. Tech Student at Vellore Ins
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=japmannkaur&&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
 
-### Weakly Activity
+### Weekly Activity
 <!--START_SECTION:waka-->
 
 ```txt
