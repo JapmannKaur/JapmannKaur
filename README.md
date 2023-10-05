@@ -20,12 +20,11 @@ Hey, this is Japmann and I'm currently a 4th Year B. Tech Student at Vellore Ins
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2023 - To: 04 October 2023
+From: 05 September 2023 - To: 05 October 2023
 
-Total Time: 10 mins
+Total Time: 0 secs
 
-CSS    10 mins         ████████████████████████▒   97.39 %
-HTML   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
