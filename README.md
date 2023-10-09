@@ -30,6 +30,8 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 
+[![An image of @japmannkaur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/japmannkaur)](https://holopin.io/@japmannkaur)
+
 ### Design
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
