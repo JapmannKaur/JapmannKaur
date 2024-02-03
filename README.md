@@ -20,15 +20,15 @@ Hey, this is Japmann and I'm currently a 4th Year B. Tech Student at Vellore Ins
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2024 - To: 02 February 2024
+From: 04 January 2024 - To: 03 February 2024
 
-Total Time: 6 hrs 14 mins
+Total Time: 7 hrs 25 mins
 
-JavaScript   5 hrs 36 mins   ██████████████████████▒░░   89.94 %
-TypeScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-CSS          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Bash         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+JavaScript   6 hrs 47 mins   ███████████████████████░░   91.53 %
+TypeScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+CSS          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
