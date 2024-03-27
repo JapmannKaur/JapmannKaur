@@ -20,7 +20,7 @@ Hey, this is Japmann and I'm currently a 4th Year B. Tech Student at Vellore Ins
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2024 - To: 26 March 2024
+From: 26 February 2024 - To: 27 March 2024
 
 Total Time: 0 secs
 
